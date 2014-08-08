@@ -1,0 +1,27 @@
+{
+  "name": "starter-kit",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:eventhough/starter-kit.git"
+  },
+  "dependencies": {
+    "express": "~4.1.2",
+    "body-parser": "~1.0.2",
+    "connect-timeout": "~1.1.0",
+    "cookie-parser": "~1.0.1",
+    "express-session": "~1.0.4",
+    "method-override": "~1.0.0",
+    "csurf": "~1.1.0",
+    "errorhandler": "~1.0.1",
+    "morgan": "~1.0.1",
+    "serve-static": "~1.1.0",
+    "pg": "~3.2.0"
+  },
+  "devDependencies": {
+    "gulp": "~3.8.7"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
