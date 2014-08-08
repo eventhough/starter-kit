@@ -13,6 +13,7 @@
     $ git clone git@github.com:eventhough/starter-kit.git
     $ cd starter-kit
     $ npm install
+    $ bower install
     $ node-dev server/server.coffee
     $ grunt serve
 
